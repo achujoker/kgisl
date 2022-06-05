@@ -1,0 +1,3 @@
+export const LIST_TYPE = {
+    SAVE_APPOINTMENTS: "SAVE_APPOINTMENTS"
+}
